@@ -8,6 +8,6 @@ tagline: Implantación de Aplicaciones Web
 
 <br><br>
 
-<a href="https://fjmh.github.io/proof/cv">![img de cv3](images/curriculum-3.png)</a>
+<a href="https://fjmh.github.io/cv">![img de cv3](images/curriculum-3.png)</a>
 
 <br><br><br>
