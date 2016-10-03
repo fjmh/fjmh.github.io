@@ -4,10 +4,10 @@ title: Página Principal
 tagline: Implantación de Aplicaciones Web
 --- 
 
-# [→ Currículum Vitae](cv)
+# [→ Currículum Vitae](about)
 
 <br><br>
 
-<a href="https://fjmh.github.io/cv">![img de cv3](images/curriculum-3.png)</a>
+<a href="https://fjmh.github.io/about">![img de cv3](images/curriculum-3.png)</a>
 
 <br><br><br>
